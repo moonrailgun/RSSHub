@@ -1557,6 +1557,12 @@
     "/independent/ps5-stock-uk": [
         "DIYgod"
     ],
+    "/infoq/recommend": [
+        "brilon"
+    ],
+    "/infoq/topic/:id": [
+        "brilon"
+    ],
     "/informs/:category?": [
         "Fatpandac"
     ],
@@ -2046,6 +2052,12 @@
     ],
     "/netease/news/rank/:category?/:type?/:time?": [
         "nczitzk"
+    ],
+    "/neu/bmie/:type": [
+        "tennousuathena"
+    ],
+    "/neu/news/:type": [
+        "JeasonLau"
     ],
     "/newmuseum/exhibitions": [
         "chazeon"
@@ -3961,8 +3973,6 @@
     "/zucc/news/latest": [],
     "/zucc/cssearch/latest/:webVpn/:key": [],
     "/ccnu/career": [],
-    "/infoq/recommend": [],
-    "/infoq/topic/:id": [],
     "/checkee/:dispdate": [],
     "/matters/latest/:type?": [],
     "/matters/hot": [],
@@ -4343,7 +4353,6 @@
     "/finviz/news/:ticker": [],
     "/haohaozhu/whole-house/:keyword?": [],
     "/haohaozhu/discover/:keyword?": [],
-    "/neu/news/:type": [],
     "/kuaidi100/track/:number/:id/:phone?": [],
     "/kuaidi100/company": [],
     "/dcrsw/:name/:count?": [],

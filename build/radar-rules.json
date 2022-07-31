@@ -6126,6 +6126,27 @@
       }
     ]
   },
+  "infoq.cn": {
+    "_name": "InfoQ 中文",
+    ".": [
+      {
+        "title": "推荐",
+        "docs": "https://docs.rsshub.app/new-media.html#infoq-zhong-wen",
+        "source": [
+          "/"
+        ],
+        "target": "/infoq/recommend"
+      },
+      {
+        "title": "话题",
+        "docs": "https://docs.rsshub.app/new-media.html#infoq-zhong-wen",
+        "source": [
+          "/topic/:id"
+        ],
+        "target": "/infoq/topic/:id"
+      }
+    ]
+  },
   "informs.org": {
     "_name": "INFORMS",
     "pubsonline": [
@@ -9084,6 +9105,29 @@
           "/m/radio",
           "/m/djradio"
         ]
+      }
+    ]
+  },
+  "neu.edu.cn": {
+    "_name": "东北大学",
+    "neunews": [
+      {
+        "title": "新闻网",
+        "docs": "https://docs.rsshub.app/university.html#dong-bei-da-xue",
+        "source": [
+          "/:type/list.htm"
+        ],
+        "target": "/neu/news/:type"
+      }
+    ],
+    "www.bmie": [
+      {
+        "title": "学院新闻 - 医学与生物信息工程学院",
+        "docs": "https://docs.rsshub.app/university.html#dong-bei-da-xue",
+        "source": [
+          "/"
+        ],
+        "target": "/neu/bmie/news"
       }
     ]
   },
