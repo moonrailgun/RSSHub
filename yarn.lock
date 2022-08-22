@@ -3889,10 +3889,10 @@ chrome-trace-event@^1.0.2:
   resolved "https://registry.yarnpkg.com/chrome-trace-event/-/chrome-trace-event-1.0.3.tgz#1015eced4741e15d06664a957dbbf50d041e26ac"
   integrity sha512-p3KULyQg4S7NIHixdwbGX+nFHkoBiA4YQmyWtjb8XngSKV124nJmRysgAeujbUVb15vh+RvFUfCPqU7rXk+hZg==
 
-chrono-node@2.3.9:
-  version "2.3.9"
-  resolved "https://registry.yarnpkg.com/chrono-node/-/chrono-node-2.3.9.tgz#27f6174f796d094721566d7b00fd514501ad6ef5"
-  integrity sha512-Qg6zmsGwaWzWiMKapr060sL6zgfBIkTxnyCTd7KGQ0YDTYg0VvBfqRRBuaOkGjiVGdKPM/cp4QQTLcpUhZQxXg==
+chrono-node@2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/chrono-node/-/chrono-node-2.4.1.tgz#ba86142a543cc27c0c531f2acbc1c23e3358bafe"
+  integrity sha512-23lqpMF2i0lr6dAVpVyYmvVGgX/EtkHBEIgFUd6LQiP7CHLzYeROYvl5X59ZBK73KAV+FGPo4rQv0Fym8CIktw==
   dependencies:
     dayjs "^1.10.0"
 
@@ -11680,10 +11680,10 @@ ramda@^0.26.1:
   resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.26.1.tgz#8d41351eb8111c55353617fc3bbffad8e4d35d06"
   integrity sha512-hLWjpy7EnsDBb0p+Z3B7rPi3GDeRG5ZtiI33kJhTt+ORCd38AbAIjB/9zRIUoeTbE/AVX5ZkU7m6bznsvrf8eQ==
 
-rand-user-agent@1.0.77:
-  version "1.0.77"
-  resolved "https://registry.yarnpkg.com/rand-user-agent/-/rand-user-agent-1.0.77.tgz#52efa735c2be0593139892e63e18f8b657267e06"
-  integrity sha512-kpPTAxAzPuBvNMBnlPq70lTUe2z96Yl7ijwxAalUbYcEDGLVrcD1ZjOfZ9yVplpxWa3tSsfdmVTcGwFLuAOPlQ==
+rand-user-agent@1.0.78:
+  version "1.0.78"
+  resolved "https://registry.yarnpkg.com/rand-user-agent/-/rand-user-agent-1.0.78.tgz#5472e954b06ab1ef8b7b080ebc0db6fd3a9a142d"
+  integrity sha512-atAfPjApMtpHK6pz+1zD1NYc8rV4ixqz4UtkYw17LSxKvOaaiLZBeUz6keJuTTNoTUjdYFZXAFBy29WHdvxwAw==
 
 randexp@0.4.6:
   version "0.4.6"
