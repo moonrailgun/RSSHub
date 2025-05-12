@@ -1,7 +1,7 @@
 import { Route } from '@/types';
 import got from '@/utils/got';
 import { rootUrl } from './utils';
-import cheerio from 'cheerio';
+import { load } from 'cheerio';
 
 export const route: Route = {
     path: '/video/:id',
@@ -30,7 +30,7 @@ async function handler(ctx) {
     const id = ctx.req.param('id');
     const url = `${rootUrl}/video/${id}.html`;
     const response = await got(url);
-    const $ = cheerio.load(response.data);
+    const $ = load(response.data);
 
     const dmtitle = $('.detail_imform_name').text();
     const dmdesc = $('.detail_imform_desc_pre').text();
